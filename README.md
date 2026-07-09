@@ -1,4 +1,7 @@
 # University Student Portal — Web Security Audit
+## Status
+All findings listed in this report have been remediated as of [06/25]. 
+This report is shared for portfolio and educational purposes.
 
 ## Purpose
 Authorized web application penetration test conducted on a university 
